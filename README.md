@@ -1,4 +1,4 @@
-# Meshcentral_NPM
+# Meshcentral_Nginx-Proxy-Manager
 
 I use these config to make MeshCentral work behind Nginx Proxy Manager, with Docker on AWS.
 
